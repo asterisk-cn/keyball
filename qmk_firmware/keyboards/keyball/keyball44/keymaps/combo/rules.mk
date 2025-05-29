@@ -1,0 +1,11 @@
+RGBLIGHT_ENABLE = yes
+
+OLED_ENABLE = yes
+
+VIA_ENABLE = yes
+
+COMBO_ENABLE = yes
+
+EXTRAKY_ENABLE = yes
+
+MUSIC_ENABLE = no
